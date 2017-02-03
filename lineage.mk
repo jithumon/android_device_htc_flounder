@@ -47,7 +47,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="volantis-user 7.1.1 N4F26M 3562722 release-keys"
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_flounder
+PRODUCT_NAME := cm_flounder
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 9
 RR_BUILDTYPE = OFFICIAL
